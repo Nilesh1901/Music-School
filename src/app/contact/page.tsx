@@ -11,7 +11,7 @@ function page() {
           Contact Us
         </h1>
         <p className="text-base md:text-lg text-neutral-300 text-center my-10">
-          We're here to help with any question about our courses, programms, or
+          We are here to help with any question about our courses, programms, or
           events. Reach out and let us know how we can assist you in your
           musical journey.
         </p>
